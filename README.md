@@ -11,7 +11,6 @@ Find links of notebooks along with their descriptions below:
 
 4. [NLP_26_02.ipynb](https://github.com/Anacoder1/NLP_Tasks/blob/master/NLP_26_02.ipynb) - Using Porter Stemmer on random text, using the WordNet Lemmatizer, viewing the applications of CountVectorizer, TfidfVectorizer and Cosine Similarity and installing the Spacy library
 
-5. [NLP_26_02_and_28_02.ipynb](https://github.com/Anacoder1/NLP_Tasks/blob/master/NLP_26_02_%26_28_02.ipynb) - The same as [NLP_26_02.ipynb] (https://github.com/Anacoder1/NLP_Tasks/blob/master/NLP_26_02.ipynb), in addition to finding cosine similarities for collections of text (texts are collected from 3 National Geographic magazine articles)
+5. [NLP_26_02_and_28_02.ipynb](https://github.com/Anacoder1/NLP_Tasks/blob/master/NLP_26_02_%26_28_02.ipynb) - The same as [NLP_26_02.ipynb](https://github.com/Anacoder1/NLP_Tasks/blob/master/NLP_26_02.ipynb), in addition to finding cosine similarities for collections of text (texts are collected from 3 National Geographic magazine articles)
 
-6. [CRF.ipynb](https://github.com/Anacoder1/NLP_Tasks/blob/master/CRF.ipynb) - Sequence Labeling on a NER (Named Entity Recognition) model using CRF in Python
-## Note: This notebook was run on Google Colab, and won't run on Juptyer notebook or Juypter Lab
+6. [CRF.ipynb](https://github.com/Anacoder1/NLP_Tasks/blob/master/CRF.ipynb) - Sequence Labeling on a NER (Named Entity Recognition) model using CRF in Python (### Note: This notebook was run on Google Colab, and won't run on Juptyer notebook or Juypter Lab
